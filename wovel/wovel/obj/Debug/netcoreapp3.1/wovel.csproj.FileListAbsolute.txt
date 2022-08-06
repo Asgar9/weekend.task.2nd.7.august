@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\projects\herf\wovel\wovel\bin\Debug\netcoreapp3.1\wovel.exe
+C:\Users\User\Desktop\projects\herf\wovel\wovel\bin\Debug\netcoreapp3.1\wovel.deps.json
+C:\Users\User\Desktop\projects\herf\wovel\wovel\bin\Debug\netcoreapp3.1\wovel.runtimeconfig.json
+C:\Users\User\Desktop\projects\herf\wovel\wovel\bin\Debug\netcoreapp3.1\wovel.runtimeconfig.dev.json
+C:\Users\User\Desktop\projects\herf\wovel\wovel\bin\Debug\netcoreapp3.1\wovel.dll
+C:\Users\User\Desktop\projects\herf\wovel\wovel\bin\Debug\netcoreapp3.1\wovel.pdb
+C:\Users\User\Desktop\projects\herf\wovel\wovel\obj\Debug\netcoreapp3.1\wovel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\projects\herf\wovel\wovel\obj\Debug\netcoreapp3.1\wovel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\projects\herf\wovel\wovel\obj\Debug\netcoreapp3.1\wovel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\projects\herf\wovel\wovel\obj\Debug\netcoreapp3.1\wovel.AssemblyInfo.cs
+C:\Users\User\Desktop\projects\herf\wovel\wovel\obj\Debug\netcoreapp3.1\wovel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects\herf\wovel\wovel\obj\Debug\netcoreapp3.1\wovel.dll
+C:\Users\User\Desktop\projects\herf\wovel\wovel\obj\Debug\netcoreapp3.1\wovel.pdb
+C:\Users\User\Desktop\projects\herf\wovel\wovel\obj\Debug\netcoreapp3.1\wovel.genruntimeconfig.cache
